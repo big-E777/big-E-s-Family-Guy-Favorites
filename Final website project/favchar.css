@@ -1,0 +1,41 @@
+.navbar {display: flex; justify-content: space-between; align-items: center;padding: 1rem 2rem; background-color: black}
+.navtitle {color: white; font-size: 30; font-family: monospace}
+ul {padding: 50;; padding-left: 300}
+ul {display: flex; justify-content:flex-end; gap: 15px}
+li {list-style-type: none;}
+a {text-decoration: none; color:white}
+ul {background-color:black;}
+a {font-size: 20;}
+a:hover {color: crimson}
+a:hover {text-decoration: underline}
+a {font-family:sans-serif}
+body {margin: 0}
+body {background-color:darkred}
+.hm {display: flex; flex-direction: column; justify-content: center; text-align: center; font-size: 24; margin-left: 200px; margin-right: 200px}
+.hm img {width: 30%;}
+h1 {text-align-last: center; margin-bottom: 50px; font-size: 60; font-family:sans-serif}
+h2{ text-align: center}
+.carter {display: flex; justify-content: center;}
+.five {display: flex; flex-direction: column; justify-content: center; text-align: center; font-size: 24; margin-left: 200px; margin-right: 200px}
+.five img {width: 10%}
+.four {display: flex; flex-direction: column; justify-content: center; text-align: center; font-size: 24; margin-left: 200px; margin-right: 200px}
+.four img {width: 20%}
+.three {display: flex; flex-direction: column; justify-content: center; text-align: center; font-size: 24;}
+.three img {width: 12.5%}
+.two {display: flex; flex-direction: column; justify-content: center; text-align: center; font-size: 24; margin-left: 200px; margin-right: 200px}
+.two img {width: 40%}
+.one {display: flex; flex-direction: column; justify-content: center; text-align: center; font-size: 24; margin-left: 200px; margin-right: 200px}
+.one img{width: 20%}
+.stewie {transition: transform 0.3s ease;}
+.stewie:hover{transform:scale(1.1);}
+.joe {transition: transform 0.3s ease;}
+.joe:hover{transform:scale(1.1);}
+.peter {transition: transform 0.3s ease;}
+.peter:hover{transform:scale(1.1);}
+.adam {transition: transform 0.3s ease;}
+.adam:hover{transform:scale(1.1);}
+.carter {transition: transform 0.3s ease;}
+.carter:hover{transform:scale(1.1);}
+.chris {transition: transform 0.3s ease;}
+.chris:hover{transform:scale(1.1);}
+p {font-family: sans-serif}
